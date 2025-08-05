@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizaanjum-2606" alt="faizaanjum-2606" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Springboot,JDBC**
+- 🌱 I’m currently learning **Java, Springboot,JDBC, Artificial Intelligence, Data Science**
 
-- 💬 Ask me about **C, Python, AI,Python libraries**
+- 💬 Ask me about **C, Python, AI,Python libraries, Machinelearning, Statistics using libraries, Data Science**
 
 - 📫 How to reach me **syedanjumejaz@gmail.com**
 
